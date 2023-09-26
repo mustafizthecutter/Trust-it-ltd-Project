@@ -51,4 +51,4 @@
 // const getFinalNumbers = getMax(abir, niaz, tazed);
 // console.log(getFinalNumbers);
 
-// the end of loop Problem--------
+// the end of loop Problem-------- 
