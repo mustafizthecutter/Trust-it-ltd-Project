@@ -1,3 +1,4 @@
+// divisible by 3,5 and both from 1-50---------
 for (i = 1; i <= 50; i++) {
     if ((i % 3 === 0) && (i % 5 === 0)) {
         console.log('foobar');
