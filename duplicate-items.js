@@ -1,3 +1,5 @@
+// remove duplicate elements form an Array
+
 const names = ['hridoy', 'ahsan', 'mostofa', 'samrat', 'pappu', 'omit', 'mostofa', 'ahsan', 'hridoy', 'samrat', 'mostofa', 'murad'];
 function duplicateItems(names) {
     const newNames = [];
